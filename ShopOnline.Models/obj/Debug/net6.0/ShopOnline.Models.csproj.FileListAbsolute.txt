@@ -1,0 +1,11 @@
+C:\Users\Private\source\repos\C# ASP\ASP-Blazor\ShopOnlineSolution\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.deps.json
+C:\Users\Private\source\repos\C# ASP\ASP-Blazor\ShopOnlineSolution\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.dll
+C:\Users\Private\source\repos\C# ASP\ASP-Blazor\ShopOnlineSolution\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.pdb
+C:\Users\Private\source\repos\C# ASP\ASP-Blazor\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Private\source\repos\C# ASP\ASP-Blazor\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.AssemblyInfoInputs.cache
+C:\Users\Private\source\repos\C# ASP\ASP-Blazor\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.AssemblyInfo.cs
+C:\Users\Private\source\repos\C# ASP\ASP-Blazor\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.csproj.CoreCompileInputs.cache
+C:\Users\Private\source\repos\C# ASP\ASP-Blazor\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.dll
+C:\Users\Private\source\repos\C# ASP\ASP-Blazor\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net6.0\refint\ShopOnline.Models.dll
+C:\Users\Private\source\repos\C# ASP\ASP-Blazor\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.pdb
+C:\Users\Private\source\repos\C# ASP\ASP-Blazor\ShopOnlineSolution\ShopOnline.Models\obj\Debug\net6.0\ref\ShopOnline.Models.dll

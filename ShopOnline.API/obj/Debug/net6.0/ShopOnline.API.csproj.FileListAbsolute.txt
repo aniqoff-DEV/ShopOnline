@@ -63,3 +63,5 @@ C:\Users\Private\source\repos\C# ASP\ASP-Blazor\ShopOnlineSolution\ShopOnline.AP
 C:\Users\Private\source\repos\C# ASP\ASP-Blazor\ShopOnlineSolution\ShopOnline.API\obj\Debug\net6.0\ShopOnline.API.pdb
 C:\Users\Private\source\repos\C# ASP\ASP-Blazor\ShopOnlineSolution\ShopOnline.API\obj\Debug\net6.0\ShopOnline.API.genruntimeconfig.cache
 C:\Users\Private\source\repos\C# ASP\ASP-Blazor\ShopOnlineSolution\ShopOnline.API\obj\Debug\net6.0\ref\ShopOnline.API.dll
+C:\Users\Private\source\repos\C# ASP\ASP-Blazor\ShopOnlineSolution\ShopOnline.API\bin\Debug\net6.0\ShopOnline.Models.dll
+C:\Users\Private\source\repos\C# ASP\ASP-Blazor\ShopOnlineSolution\ShopOnline.API\bin\Debug\net6.0\ShopOnline.Models.pdb
